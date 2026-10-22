@@ -44,19 +44,19 @@ I'm always open to collaborating on meaningful projects, exploring new technolog
 * 🤝 Collaborating with a team to build and improve real-world applications.
 * 📱 Exploring Flutter for mobile application development.
 
-  ## 🌍 Open-Source Contributions
+## 🌍 Open-Source Contributions
 
-* 💻 Contributing to open-source projects and collaborating with developer communities.
-* 🐛 Engaging with issues, improving code, and exploring existing codebases.
-* 🤝 Open to collaborating with developers on meaningful projects and real-world solutions.
+I'm passionate about contributing to open-source projects, collaborating with developers, and building meaningful solutions.
 
-### 🔗 Explore My Contributions
+### 🚀 Featured Contributions
 
-* [My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3ASrija-65)
+* 🎮 **[Pokémon Studio — Improve Copy Button Click Target](https://github.com/PokemonWorkshop/PokemonStudio/pull/768)**
+  Contributed a fix to improve the copy button's click target and usability. The maintainer reviewed the change and confirmed that it worked.
 
+* 📊 **[Anvisor — Default Insights Date Range to 24 Hours](https://github.com/ansvisor/ansvisor/issues/260)** 
+  Contributed an improvement to the default date range in Insights, making it default to 24 hours instead of all available data.
 
-## 📊 GitHub Stats
+### 🤝 Let's Collaborate!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srija-65\&show_icons=true\&theme=tokyonight)
+I'm always open to contributing to open-source projects, learning from other developers, and collaborating on impactful real-world solutions.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija-65\&layout=compact\&theme=tokyonight)
