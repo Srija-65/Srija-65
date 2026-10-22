@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Srija
 
-<!--
-**Srija-65/Srija-65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 Working on full-stack projects as a **Fellowship Intern at Mittarv Technologies**.
+* 🚀 Building web applications using modern technologies.
+* 📱 Currently learning **Flutter** for mobile app development.
+* 🤝 Interested in collaborating on meaningful projects and contributing to real-world solutions.
+* 🌱 Always eager to learn, grow, and explore new technologies.
+
+## 🛠️ Skills & Technologies
+
+**Languages:**
+C, C++, JavaScript, TypeScript
+
+**Frontend Development:**
+HTML, CSS, React.js, SCSS
+
+**Backend Development:**
+Node.js, Express.js, REST APIs
+
+**Databases & ORM:**
+MySQL, PostgreSQL, MongoDB, Prisma ORM
+
+**Tools & Platforms:**
+Git, GitHub, VS Code, Jira
+
+**Currently Learning:**
+Flutter, Mobile App Development
+
+## 🤝 Let's Collaborate!
+
+I'm always open to collaborating on meaningful projects, exploring new technologies, and contributing to real-world solutions. Let's connect and build something impactful together! 🚀
