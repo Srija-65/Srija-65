@@ -44,14 +44,19 @@ I'm always open to collaborating on meaningful projects, exploring new technolog
 * 🤝 Collaborating with a team to build and improve real-world applications.
 * 📱 Exploring Flutter for mobile application development.
 
+  ## 🌍 Open-Source Contributions
+
+* 💻 Contributing to open-source projects and collaborating with developer communities.
+* 🐛 Engaging with issues, improving code, and exploring existing codebases.
+* 🤝 Open to collaborating with developers on meaningful projects and real-world solutions.
+
+### 🔗 Explore My Contributions
+
+* [My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3ASrija-65)
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srija-65\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija-65\&layout=compact\&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Srija-65\&theme=tokyonight)
-
