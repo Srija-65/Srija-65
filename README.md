@@ -33,3 +33,14 @@ Flutter, Mobile App Development
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaborating on meaningful projects, exploring new technologies, and contributing to real-world solutions. Let's connect and build something impactful together! 🚀
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srija-65\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija-65\&layout=compact\&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Srija-65\&theme=tokyonight)
+
