@@ -34,6 +34,17 @@ Flutter, Mobile App Development
 
 I'm always open to collaborating on meaningful projects, exploring new technologies, and contributing to real-world solutions. Let's connect and build something impactful together! 🚀
 
+## 💼 Professional Experience
+
+**Fellowship Intern | Mittarv Technologies**
+
+* 🚀 Contributing to full-stack web development projects.
+* 💻 Working with React.js, Node.js, TypeScript, and modern web technologies.
+* 🗄️ Working with MySQL, PostgreSQL, and Prisma ORM.
+* 🤝 Collaborating with a team to build and improve real-world applications.
+* 📱 Exploring Flutter for mobile application development.
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srija-65\&show_icons=true\&theme=tokyonight)
